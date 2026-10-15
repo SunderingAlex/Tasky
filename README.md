@@ -1,2 +1,2 @@
 # Tasky
-Personal productivity application -- Desktop &amp; Mobile
+Personal productivity application. Desktop &amp; mobile.
