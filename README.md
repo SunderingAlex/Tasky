@@ -11,8 +11,9 @@ for the task workflow. A fresh installation starts with an empty task list.
 ## Download and install
 
 1. Open the [latest Tasky release](https://github.com/SunderingAlex/Tasky/releases/latest).
-2. Under **Assets**, download **Tasky-<version>-Setup-x64.exe**. You only need the
-   `.exe`; the other files support updates and download verification.
+2. Under **Assets**, download the **Windows installer**, the file ending in
+   **`Setup-x64.exe`**. You only need the `.exe`; the other files support updates
+   and download verification.
 3. Run the installer, then open **Tasky** from the Windows Start menu.
 
 The installer is for **Windows x64**. Releases are currently unsigned, so Windows
